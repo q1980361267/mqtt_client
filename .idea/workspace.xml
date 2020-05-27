@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62ffbc01-fc55-4a86-b66e-9bf18a97d541" name="Default Changelist" comment="" />
+    <list default="true" id="62ffbc01-fc55-4a86-b66e-9bf18a97d541" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test-config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mqtt_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/mqtt_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bk33Q00xlAb46LXOKjNbGcxKiR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.mqtt_client (1)">
+  <component name="RunManager" selected="Python.mqtt_client">
     <configuration name="get_password (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mqtt_client" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,9 +162,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mqtt_client (1)" />
         <item itemvalue="Python.mqtt_client" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.mqtt_client (1)" />
         <item itemvalue="Python.mqtt_client" />
         <item itemvalue="Python.get_password (1)" />
       </list>
@@ -179,29 +188,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="423" y="204" width="540" height="589" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589163659272" />
-    <state width="1877" height="317" key="GridCell.Tab.0.bottom" timestamp="1589781745411">
+    <state width="1877" height="317" key="GridCell.Tab.0.bottom" timestamp="1590486734936">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="317" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589781745411" />
-    <state width="1877" height="317" key="GridCell.Tab.0.center" timestamp="1589781745411">
+    <state width="1877" height="317" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590486734936" />
+    <state width="1877" height="317" key="GridCell.Tab.0.center" timestamp="1590486734936">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="317" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589781745411" />
-    <state width="1877" height="317" key="GridCell.Tab.0.left" timestamp="1589781745411">
+    <state width="1877" height="317" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590486734936" />
+    <state width="1877" height="317" key="GridCell.Tab.0.left" timestamp="1590486734936">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="317" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589781745411" />
-    <state width="1877" height="317" key="GridCell.Tab.0.right" timestamp="1589781745411">
+    <state width="1877" height="317" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590486734936" />
+    <state width="1877" height="317" key="GridCell.Tab.0.right" timestamp="1590486734936">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="317" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589781745411" />
+    <state width="1877" height="317" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590486734936" />
     <state x="79" y="50" key="SettingsEditor" timestamp="1589163921950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="79" y="50" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589163921950" />
-    <state x="577" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1589331696905">
+    <state x="577" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1590457115517">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="577" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589331696905" />
+    <state x="577" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590457115517" />
   </component>
 </project>

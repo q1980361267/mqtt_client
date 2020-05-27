@@ -1,5 +1,6 @@
 import json
-a= {'a':1,'b':2}
 
-b= json.dumps(a)
+with open('test-config.json', 'r') as f:
+    f_json = json.load(f)
+    print('f_json: ', f_json)
 
